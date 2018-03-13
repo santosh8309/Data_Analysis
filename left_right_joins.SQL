@@ -12,16 +12,16 @@ group by region
 order by avg_gdp;
 
 result:
-region	avg_gdp
-Southern Africa	5051.59797363281
+region				avg_gdp
+Southern Africa		5051.59797363281
 Australia and New Zealand	44792.384765625
-Southeast Asia	10547.1541320801
-Southern Europe	22926.4109108665
-Northern Africa	4713.86169433594
+Southeast Asia		10547.1541320801
+Southern Europe		22926.4109108665
+Northern Africa		4713.86169433594
 Nordic Countries	57073.99765625
-Central Africa	4797.23992919922
-Micronesia	4497.65197753906
-Polynesia	3451.36336263021
+Central Africa		4797.23992919922
+Micronesia			4497.65197753906
+Polynesia			3451.36336263021
 
 ****************************************************************************************
 
